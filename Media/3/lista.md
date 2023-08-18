@@ -15,7 +15,7 @@
         * pag 84/85
         * pag 86/87
 * Storia
-    * Lavoro di gruppo con bondi
+    * Lavoro di gruppo con conpagno
         
 * Italiano
     * Quaderno delle competenze
