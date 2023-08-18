@@ -20,8 +20,7 @@
 * Italiano
     * Quaderno delle competenze
         * da 91 a 95
-        * 103/104
-        * 106/107
+        * 103/104/106/107
         * da 110 a 113
         * 114/115/118/125/126/133/134/147/148 (intervista impossibile a Napoleone)
     * Analizza le seguenti forme verbali: Cammineresti, osassero, digiunando, avere scritto, esci!, ascoltai, abbiate svegliato, coprivamo, ebbi escluso, sparso, avendo minacciato, passante, aveva esultato, spegnerete, avremo pianto.
@@ -36,6 +35,11 @@
         * da 104 a 109
         * da 113 a 115. 
 * Geografia
+    * Elabora uno schema sull’Europa partendo dalle informazioni del documento “[Europa in sintesi](./Europa%20In%20sintesi.md)”
+    Puoi suddividere lo schema in due parti:
+    - Europa elementi naturali (estensione, rilievi, climi, paesaggi, idrografia)
+    - Europa elementi antropici (popolazione, agricoltura, industria, terziario, Unione Europea)
+
 * Matematica
     * Scienze
         * Schema sul sistema muscolare
