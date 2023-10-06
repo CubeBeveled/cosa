@@ -148,7 +148,7 @@ body {
 
 .entry:hover {
     border-radius: 20px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);    
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
 }
 
 .entry-title {
@@ -192,6 +192,35 @@ body {
     outline-color: invert;
     outline-offset: 10px;
 }
+
+.nervs-lista1 {
+    width: 15%; /* Adjust as needed */
+    font-size: medium;
+    text-align: left;
+}
+
+.nervs-lista2 {
+    width: 15%; /* Adjust as needed */
+    font-size: medium;
+    text-align: left;
+}
+
+.neuroni {
+    border-radius: 10px;
+    width: 500px;
+}
+
+.neuroni:hover {
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+    transition: all, 0.30s;
+}
+
+
+
+
+
+
 
 .indietro {
     cursor: pointer;
