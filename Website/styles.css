@@ -226,3 +226,33 @@ body {
     border-radius: 20px;
     transition: all, 0.30s;
 }
+
+.vai {
+    cursor: pointer;
+    font-size: medium;
+    border-style: solid;
+    color: rgb(51, 158, 51);
+    border-color: rgb(51, 158, 51);
+    background-color: rgb(25, 25, 25);
+    border-radius: 6px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all, 0.30s;
+    font-weight: bold;
+    
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100%;
+}
+
+.vai:hover {
+    color: rgb(53, 53, 53);
+    border-color: rgb(53, 53, 53); 
+    background-color: rgb(51, 158, 51);
+    border-radius: 20px;
+    transition: all, 0.30s;
+}
