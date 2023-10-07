@@ -162,66 +162,6 @@ body {
     margin-left: 20px;
 }
 
-/*
-    SYSTEMA NERVOSO
-*/
-
-.title-sis-nervs {
-    cursor: default;
-    color: rgb(6, 95, 212);
-    display: inline-block;
-    width: fit-content;
-    
-    border-radius: 5px;
-    padding-top: 9px;
-    padding-bottom: 9px;
-    padding-left: 16px;
-    padding-right: 16px;
-    transition: box-shadow 0.15s;
-    transition: outline-offset 0.15s;
-}
-
-.title-sis-nervs:hover {
-    color: rgb(6, 95, 212); 
-    width: fit-content;
-
-    border-radius: 5px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.30);
-    
-    outline-style: solid;
-    outline-color: invert;
-    outline-offset: 10px;
-}
-
-.nervs-lista1 {
-    width: 15%; /* Adjust as needed */
-    font-size: medium;
-    text-align: left;
-}
-
-.nervs-lista2 {
-    width: 15%; /* Adjust as needed */
-    font-size: medium;
-    text-align: left;
-}
-
-.neuroni {
-    border-radius: 10px;
-    width: 500px;
-}
-
-.neuroni:hover {
-    border-radius: 5px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
-    transition: all, 0.30s;
-}
-
-
-
-
-
-
-
 .indietro {
     cursor: pointer;
     font-size: medium;
@@ -283,5 +223,85 @@ body {
     border-color: rgb(53, 53, 53); 
     background-color: rgb(51, 158, 51);
     border-radius: 20px;
+    transition: all, 0.30s;
+}
+
+.link {
+    color: rgb(225, 225, 225);
+    text-decoration: none;
+    line-height: 25px;
+    background-color: (190, 190, 190); 
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+    font-size: large;
+}
+
+.link:hover {
+    color: rgb(197, 200, 219);
+    transition: all, 0.10s;
+    border: 2px solid #ccc;
+}
+  
+
+.lista {
+    width: 20%;
+    font-size: medium;
+    text-align: left;
+}
+
+/*
+-----------------------
+_______________________
+|    SYSTEMA NERVOSO  |
+_______________________
+-----------------------
+*/
+
+.title-sis-nervs {
+    cursor: default;
+    color: rgb(6, 95, 212);
+    display: inline-block;
+    width: fit-content;
+    
+    border-radius: 5px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: box-shadow 0.15s;
+    transition: outline-offset 0.15s;
+}
+
+.title-sis-nervs:hover {
+    color: rgb(6, 95, 212); 
+    width: fit-content;
+
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.30);
+    
+    outline-style: solid;
+    outline-color: invert;
+    outline-offset: 10px;
+}
+
+.nervs-lista1 {
+    width: 15%; /* Adjust as needed */
+    font-size: medium;
+    text-align: left;
+}
+
+.nervs-lista2 {
+    width: 15%; /* Adjust as needed */
+    font-size: medium;
+    text-align: left;
+}
+
+.neuroni {
+    border-radius: 10px;
+    width: 500px;
+}
+
+.neuroni:hover {
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
     transition: all, 0.30s;
 }
