@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "eeaa4f59c5e8411a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b1394ccb2bf951d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3952d72c30ced7a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "210b398ca0a0a7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc13935e19f706c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f6d1e09a8f676c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937ed394de6d9d05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fbe97b93fa8fb75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sostanz",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e496f160887320de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb505992c46aed87",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83b94ac2ffb75fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2088f7968794f0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab7623bae77011ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0417b499c8ffc28e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1e932ecd3d87301",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "210b398ca0a0a7d7",
+  "lastOpenFiles": [
+    "Scuola/Sistema nervoso/Definizioni.md",
+    "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+    "Scuola/Sistema nervoso/Sistema Nervoso periferico.md",
+    "Scuola/Scienze.md",
+    "Scuola/Sistema nervoso/Sistema nervoso.md",
+    "Scuola/Scuola.md",
+    "Scuola/Sistema nervoso/Sistema Nervoso Centrale.md",
+    "Scuola/Sistema nervoso/Sistema endocrino",
+    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema nervoso autonomo.md",
+    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema parasimpatico.md",
+    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema simpatico.md",
+    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema nervoso volontario.md",
+    "Scuola/Sistema nervoso/Le parti/Neurotrasmettitori.md",
+    "Scuola/Sistema nervoso/Le parti/Tessuto nervoso.md",
+    "Scuola/Sistema nervoso/Le parti/Talamo.md",
+    "Scuola/Sistema nervoso/Le parti/Neuroni.md",
+    "Scuola/Sistema nervoso/Le parti/Ipotalamo.md",
+    "Scuola/Sistema nervoso/Le parti/Sinapsi.md",
+    "Scuola/Sistema nervoso/Le parti/Midollo spinale.md",
+    "Scuola/Sistema nervoso/Sistema nervoso periferico",
+    "Scuola/Sistema nervoso/Le parti",
+    "Scuola/Sistema nervoso/Sistema nervoso centrale",
+    "Scuola/Sistema nervoso/Il cervello.md",
+    "Scuola/Immagini/Neurone.jpg",
+    "Scuola/Sistema nervoso",
+    "Scuola/Immagini",
+    "Scuola",
+    "sostanza bianca.md",
+    "Untitled.canvas",
+    "Scuola/Scienze/Sistema nervoso/Tessuto.md",
+    "Scuola/Scienze",
+    "js/Aternos on switch.md",
+    "js/Survival db.md",
+    "js/Bevel Bot.md",
+    "js"
+  ]
+}

@@ -1,0 +1,1 @@
+Smista le informazioni sensoriali provenienti dagli organi di senso verso le varie parti della corteccia cerebrale
