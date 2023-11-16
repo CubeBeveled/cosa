@@ -23,14 +23,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+                "file": "Scuola/Scienze/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f07c14c1d33fe63c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sostanz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,42 +161,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "210b398ca0a0a7d7",
+  "active": "f07c14c1d33fe63c",
   "lastOpenFiles": [
-    "Scuola/Sistema nervoso/Definizioni.md",
-    "Scuola/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
-    "Scuola/Sistema nervoso/Sistema Nervoso periferico.md",
-    "Scuola/Scienze.md",
-    "Scuola/Sistema nervoso/Sistema nervoso.md",
-    "Scuola/Scuola.md",
-    "Scuola/Sistema nervoso/Sistema Nervoso Centrale.md",
-    "Scuola/Sistema nervoso/Sistema endocrino",
-    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema nervoso autonomo.md",
-    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema parasimpatico.md",
-    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema simpatico.md",
-    "Scuola/Sistema nervoso/Sistema nervoso periferico/Sistema nervoso volontario.md",
-    "Scuola/Sistema nervoso/Le parti/Neurotrasmettitori.md",
-    "Scuola/Sistema nervoso/Le parti/Tessuto nervoso.md",
-    "Scuola/Sistema nervoso/Le parti/Talamo.md",
-    "Scuola/Sistema nervoso/Le parti/Neuroni.md",
-    "Scuola/Sistema nervoso/Le parti/Ipotalamo.md",
-    "Scuola/Sistema nervoso/Le parti/Sinapsi.md",
-    "Scuola/Sistema nervoso/Le parti/Midollo spinale.md",
-    "Scuola/Sistema nervoso/Sistema nervoso periferico",
-    "Scuola/Sistema nervoso/Le parti",
-    "Scuola/Sistema nervoso/Sistema nervoso centrale",
-    "Scuola/Sistema nervoso/Il cervello.md",
-    "Scuola/Immagini/Neurone.jpg",
-    "Scuola/Sistema nervoso",
-    "Scuola/Immagini",
-    "Scuola",
-    "sostanza bianca.md",
+    "Scuola/Italiano/Testi/Traccia 3.md",
+    "Scuola/Italiano/Italiano.md",
+    "Scuola/Storia/Testi/Sintesi sulla questione meridionale.md",
     "Untitled.canvas",
-    "Scuola/Scienze/Sistema nervoso/Tessuto.md",
+    "2023-11-16.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+    "Scuola/Scuola.md",
+    "Scuola/Storia/Storia.md",
+    "Scuola/Storia/Testi.md",
+    "Scuola/Storia/Testi",
+    "Storia",
+    "Scuola/Storia",
+    "Scuola/Italiano/Testi",
     "Scuola/Scienze",
-    "js/Aternos on switch.md",
-    "js/Survival db.md",
-    "js/Bevel Bot.md",
-    "js"
+    "Scuola/Italiano",
+    "Scuola/Scienze/Sistema nervoso/Definizioni.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema Nervoso periferico.md",
+    "Scuola/Scienze/Scienze.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema Nervoso Centrale.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema endocrino",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso periferico/Sistema nervoso autonomo.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso periferico/Sistema parasimpatico.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso periferico/Sistema simpatico.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso periferico/Sistema nervoso volontario.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Neurotrasmettitori.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Tessuto nervoso.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Talamo.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Neuroni.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Ipotalamo.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Sinapsi.md",
+    "Scuola/Scienze/Sistema nervoso/Le parti/Midollo spinale.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso periferico",
+    "Scuola/Scienze/Sistema nervoso/Le parti",
+    "Scuola/Scienze/Sistema nervoso/Sistema nervoso centrale",
+    "Scuola/Scienze/Sistema nervoso/Il cervello.md",
+    "Scuola/Immagini/Neurone.jpg"
   ]
 }

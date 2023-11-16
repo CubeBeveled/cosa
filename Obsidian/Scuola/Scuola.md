@@ -1,2 +1,4 @@
 
 [[Scienze]]
+[[Storia]]
+[[Italiano]]
