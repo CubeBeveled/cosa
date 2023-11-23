@@ -4,11 +4,11 @@ const server = express();
 startServer(3000, "./index.html")
 
 function startServer(port, filename) {
-    server.listen(port, () => { console.log('\x1b[32m', `Server is running on port ${port}`) });
-    
-    server.use(express.static(__dirname));
-    
-    server.get('/', (req, res) => {
-      res.sendFile(path.join(__dirname, filename));
-    })
+  server.listen(port, () => { console.log('\x1b[32m', `Server is running on port ${port}`) });
+
+  server.use(express.static(__dirname));
+
+  server.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, filename));
+  })
 }
