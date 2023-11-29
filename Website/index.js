@@ -10,5 +10,6 @@ function startServer(port, filename) {
 
   server.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, filename));
+    console.log("Got GET request")
   })
 }
