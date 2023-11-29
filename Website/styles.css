@@ -34,6 +34,7 @@ TOP BAR
 STUFF STYLES
 */
 .link {
+    margin: 10px;
     cursor: pointer;
     text-decoration: none;
     font-size: large;
