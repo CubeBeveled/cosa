@@ -10,6 +10,10 @@ function startServer(port, filename) {
 
   server.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, filename));
-    console.log("Got GET request")
   })
+
+  app.use((req, res, next) => {
+    console.log(`Received a ${req.method} request for ${req.url}`);
+    next();
+  });
 }
