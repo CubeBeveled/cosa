@@ -12,7 +12,7 @@ function startServer(port, filename) {
     res.sendFile(path.join(__dirname, filename));
   })
 
-  app.use((req, res, next) => {
+  server.use((req, res, next) => {
     console.log(`Received a ${req.method} request for ${req.url}`);
     next();
   });
