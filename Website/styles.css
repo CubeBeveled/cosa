@@ -34,7 +34,6 @@ TOP BAR
 STUFF STYLES
 */
 .link {
-    margin: 10px;
     cursor: pointer;
     text-decoration: none;
     font-size: large;
@@ -194,6 +193,7 @@ ENTRIES LIST
 ENTRIES
 */
 .indietro {
+    position:fixed;
     cursor: pointer;
     font-size: medium;
     border-style: solid;
@@ -214,11 +214,9 @@ ENTRIES
 
     display: inline-block;
     vertical-align: bottom;
-    position: fixed;
-    position: absolute;
-    /* Set the position to absolute */
+    /*position: fixed;
+    position: absolute;*/
     top: 0;
-    /* Align the element to the bottom of the page */
 }
 
 .indietro:hover {

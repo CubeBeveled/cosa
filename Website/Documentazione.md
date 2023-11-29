@@ -12,5 +12,4 @@ Targeting an element.
 ### Display types
 * block-element: takes the entire line.
 * inline-block: only takes up as much space as needed.
-* inline block: does not take the entire line.
 * block: takes up the entire line in their container.
