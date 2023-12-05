@@ -1,0 +1,1 @@
+Sessuata data dall'unione di più [[Scuola/Scienze/Riproduzione/Definizioni#Gameti|gameti]]

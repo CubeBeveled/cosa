@@ -1,0 +1,1 @@
+Tutte le cellule nel loro nucleo possiedono cromosomi, l'essere umano ne ha 23 coppie che portano le stesse informazioni

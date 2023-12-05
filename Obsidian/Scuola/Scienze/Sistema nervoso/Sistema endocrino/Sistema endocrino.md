@@ -5,8 +5,8 @@
 	* Viene coordinata dal direttore d'orchestra (sistema nervoso)
 	* La bacchetta del direttore d'orchestra (l'ipofisi)
 	* I musicisti (ghiandole endocrine)
-	* I suoni ([[Definizioni#Gli ormoni|ormoni]])
+	* I suoni ([[Scuola/Scienze/Sistema nervoso/Definizioni#Gli ormoni|ormoni]])
 	* l'inisieme dei suoni (l'equilibro di tutte le funzioni dell'organismo)
 
 * Formato dalle ghiandole endocrine
-	* Riversano le sostanze prodotte ([[Definizioni#Gli ormoni|ormoni]]) nell'apparato circolatorio
+	* Riversano le sostanze prodotte ([[Scuola/Scienze/Sistema nervoso/Definizioni#Gli ormoni|ormoni]]) nell'apparato circolatorio

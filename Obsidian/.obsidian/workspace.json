@@ -18,23 +18,27 @@
             }
           },
           {
-            "id": "210b398ca0a0a7d7",
+            "id": "a23138517d488af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scuola/Scienze/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+                "file": "Scuola/Scienze/Riproduzione/Le cellule.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f07c14c1d33fe63c",
+            "id": "0c1e0d382f434bd0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scuola/Scienze/Riproduzione/Definizioni.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scuola/Scienze/Riproduzione/Definizioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scuola/Scienze/Riproduzione/Definizioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,10 +147,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scuola/Scienze/Riproduzione/Definizioni.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,14 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f07c14c1d33fe63c",
+  "active": "0c1e0d382f434bd0",
   "lastOpenFiles": [
+    "Scuola/Scienze/Riproduzione/Le cellule.md",
+    "Scuola/Scienze/Riproduzione/Riproduzione.md",
+    "Scuola/Scienze/Riproduzione/Definizioni.md",
+    "Scuola/Scienze/Riproduzione/Negli esseri umani.md",
+    "Scuola/Scienze/Riproduzione/Cosa è.md",
+    "Scuola/Scienze/Scienze.md",
+    "Scuola/Scienze/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
+    "Scuola/Scienze/Riproduzione",
     "Scuola/Italiano/Testi/Traccia 3.md",
     "Scuola/Italiano/Italiano.md",
     "Scuola/Storia/Testi/Sintesi sulla questione meridionale.md",
     "Untitled.canvas",
     "2023-11-16.md",
-    "Scuola/Scienze/Sistema nervoso/Sistema endocrino/Sistema endocrino.md",
     "Scuola/Scuola.md",
     "Scuola/Storia/Storia.md",
     "Scuola/Storia/Testi.md",
@@ -180,7 +196,6 @@
     "Scuola/Italiano",
     "Scuola/Scienze/Sistema nervoso/Definizioni.md",
     "Scuola/Scienze/Sistema nervoso/Sistema Nervoso periferico.md",
-    "Scuola/Scienze/Scienze.md",
     "Scuola/Scienze/Sistema nervoso/Sistema nervoso.md",
     "Scuola/Scienze/Sistema nervoso/Sistema Nervoso Centrale.md",
     "Scuola/Scienze/Sistema nervoso/Sistema endocrino",
@@ -192,13 +207,8 @@
     "Scuola/Scienze/Sistema nervoso/Le parti/Tessuto nervoso.md",
     "Scuola/Scienze/Sistema nervoso/Le parti/Talamo.md",
     "Scuola/Scienze/Sistema nervoso/Le parti/Neuroni.md",
-    "Scuola/Scienze/Sistema nervoso/Le parti/Ipotalamo.md",
-    "Scuola/Scienze/Sistema nervoso/Le parti/Sinapsi.md",
-    "Scuola/Scienze/Sistema nervoso/Le parti/Midollo spinale.md",
     "Scuola/Scienze/Sistema nervoso/Sistema nervoso periferico",
     "Scuola/Scienze/Sistema nervoso/Le parti",
-    "Scuola/Scienze/Sistema nervoso/Sistema nervoso centrale",
-    "Scuola/Scienze/Sistema nervoso/Il cervello.md",
     "Scuola/Immagini/Neurone.jpg"
   ]
 }

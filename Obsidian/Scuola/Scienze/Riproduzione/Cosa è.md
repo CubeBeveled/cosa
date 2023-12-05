@@ -1,0 +1,1 @@
+Il processo attraverso il quale gli organismi viventi generano uno o più discendenti, garantendo la conservazione della loro specie
